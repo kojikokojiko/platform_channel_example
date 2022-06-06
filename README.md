@@ -1,4 +1,4 @@
-# platform_channelを使ったでもアプリ
+# platform_channelを使ったデモアプリ
 
 
 
