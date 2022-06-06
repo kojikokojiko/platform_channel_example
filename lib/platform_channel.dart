@@ -1,7 +1,7 @@
 
 import 'package:flutter/services.dart';
 
-import 'platform_channel_platform_interface.dart';
+
 
 class PlatformChannel {
   // MethodChannelの定義
